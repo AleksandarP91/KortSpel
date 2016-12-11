@@ -1,0 +1,16 @@
+c:\Users\CODER\documents\visual studio 2015\Projects\KortSpel\KortSpel\bin\Debug\KortSpel.exe
+c:\Users\CODER\documents\visual studio 2015\Projects\KortSpel\KortSpel\bin\Debug\KortSpel.pdb
+c:\Users\CODER\documents\visual studio 2015\Projects\KortSpel\KortSpel\obj\Debug\KortSpel.csprojResolveAssemblyReference.cache
+c:\Users\CODER\documents\visual studio 2015\Projects\KortSpel\KortSpel\obj\Debug\KortSpel.Form1.resources
+c:\Users\CODER\documents\visual studio 2015\Projects\KortSpel\KortSpel\obj\Debug\KortSpel.Properties.Resources.resources
+c:\Users\CODER\documents\visual studio 2015\Projects\KortSpel\KortSpel\obj\Debug\KortSpel.csproj.GenerateResource.Cache
+c:\Users\CODER\documents\visual studio 2015\Projects\KortSpel\KortSpel\obj\Debug\KortSpel.exe
+c:\Users\CODER\documents\visual studio 2015\Projects\KortSpel\KortSpel\obj\Debug\KortSpel.pdb
+D:\old\Projects\KortSpel\KortSpel\obj\Debug\KortSpel.exe
+D:\old\Projects\KortSpel\KortSpel\obj\Debug\KortSpel.pdb
+D:\old\Projects\KortSpel\KortSpel\bin\Debug\KortSpel.exe
+D:\old\Projects\KortSpel\KortSpel\bin\Debug\KortSpel.pdb
+D:\old\Projects\KortSpel\KortSpel\obj\Debug\KortSpel.csprojResolveAssemblyReference.cache
+D:\old\Projects\KortSpel\KortSpel\obj\Debug\KortSpel.Form1.resources
+D:\old\Projects\KortSpel\KortSpel\obj\Debug\KortSpel.Properties.Resources.resources
+D:\old\Projects\KortSpel\KortSpel\obj\Debug\KortSpel.csproj.GenerateResource.Cache

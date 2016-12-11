@@ -1,0 +1,8 @@
+C:\Users\CODER\Documents\Visual Studio 2015\Projects\KortSpel\KortSpel\bin\Release\KortSpel.exe
+C:\Users\CODER\Documents\Visual Studio 2015\Projects\KortSpel\KortSpel\bin\Release\KortSpel.pdb
+C:\Users\CODER\Documents\Visual Studio 2015\Projects\KortSpel\KortSpel\obj\Release\KortSpel.csprojResolveAssemblyReference.cache
+C:\Users\CODER\Documents\Visual Studio 2015\Projects\KortSpel\KortSpel\obj\Release\KortSpel.Form1.resources
+C:\Users\CODER\Documents\Visual Studio 2015\Projects\KortSpel\KortSpel\obj\Release\KortSpel.Properties.Resources.resources
+C:\Users\CODER\Documents\Visual Studio 2015\Projects\KortSpel\KortSpel\obj\Release\KortSpel.csproj.GenerateResource.Cache
+C:\Users\CODER\Documents\Visual Studio 2015\Projects\KortSpel\KortSpel\obj\Release\KortSpel.exe
+C:\Users\CODER\Documents\Visual Studio 2015\Projects\KortSpel\KortSpel\obj\Release\KortSpel.pdb
